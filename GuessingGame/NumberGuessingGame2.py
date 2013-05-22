@@ -10,4 +10,6 @@ while randomnumber != userinput:
     if userinput < randomnumber:
         print "The number your chose is too low, try again: "
         count += 1
-        print
+        userinput = float(raw_input("Nope too low, try again: "))
+    else:
+        
