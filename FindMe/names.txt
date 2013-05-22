@@ -1,0 +1,2 @@
+My name is Josh and I am counting how many times Josh appears in the names file for Josh.
+I think Josh should return Josh several times. Thank you Avishai!
