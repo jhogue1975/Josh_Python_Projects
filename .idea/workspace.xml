@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9fe5418-2380-4718-a193-c5c254e4403d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessingGame/NumberGuessingGame.py" afterPath="$PROJECT_DIR$/GuessingGame/NumberGuessingGame.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuessingGame/NumberGuessingGame2.py" afterPath="$PROJECT_DIR$/GuessingGame/NumberGuessingGame2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Python Projects.iws" />
@@ -13,7 +13,7 @@
     <file path="/findme.py" changelist="a9fe5418-2380-4718-a193-c5c254e4403d" time="1368202265780" ignored="false" />
     <file path="/Exercise2.py" changelist="a9fe5418-2380-4718-a193-c5c254e4403d" time="1368204969088" ignored="false" />
     <file path="/NUmberGuessingGame2.py" changelist="a9fe5418-2380-4718-a193-c5c254e4403d" time="1368229798245" ignored="false" />
-    <file path="/NumberGuessingGame2.py" changelist="a9fe5418-2380-4718-a193-c5c254e4403d" time="1368230545843" ignored="false" />
+    <file path="/NumberGuessingGame2.py" changelist="a9fe5418-2380-4718-a193-c5c254e4403d" time="1369208669120" ignored="false" />
     <file path="/RobCode.py" changelist="a9fe5418-2380-4718-a193-c5c254e4403d" time="1368459326195" ignored="false" />
     <file path="/NumbersandReverse.py" changelist="a9fe5418-2380-4718-a193-c5c254e4403d" time="1368555901879" ignored="false" />
     <file path="/Excercise3.txt" changelist="a9fe5418-2380-4718-a193-c5c254e4403d" time="1368552256493" ignored="false" />
@@ -40,19 +40,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NumberGuessingGame.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GuessingGame/NumberGuessingGame.py">
+      <file leaf-file-name="NumberGuessingGame2.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessingGame/NumberGuessingGame2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="18" selection-start="340" selection-end="340" vertical-scroll-proportion="0.6238532">
+            <state line="12" column="18" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberGuessingGame2.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GuessingGame/NumberGuessingGame2.py">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-7.9938836">
               <folding />
             </state>
           </provider>
@@ -81,7 +81,6 @@
         <option value="$PROJECT_DIR$/Excercise/Excercise.py" />
         <option value="$PROJECT_DIR$/FindMe/findme.py" />
         <option value="$PROJECT_DIR$/GuessingGame/NUmberGuessingGame2.py" />
-        <option value="$PROJECT_DIR$/GuessingGame/NumberGuessingGame2.py" />
         <option value="$PROJECT_DIR$/Excercise/RobCode.py" />
         <option value="$PROJECT_DIR$/Excercise/Excercise3.txt" />
         <option value="$PROJECT_DIR$/Excercise/Exercise2.py" />
@@ -91,6 +90,7 @@
         <option value="$PROJECT_DIR$/CSV_Excercise/CSVExcercise.py" />
         <option value="$PROJECT_DIR$/Learn Python The Hard Way/ex14.py" />
         <option value="$PROJECT_DIR$/GuessingGame/NumberGuessingGame.py" />
+        <option value="$PROJECT_DIR$/GuessingGame/NumberGuessingGame2.py" />
       </list>
     </option>
   </component>
@@ -155,20 +155,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="GuessingGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Josh_Python_Projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Josh_Python_Projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AviCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -339,13 +325,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23680824" sideWeight="0.49095967" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23680824" sideWeight="0.49095967" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.712938" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -423,11 +409,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Python27/Lib/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="194" column="0" selection-start="7106" selection-end="7106" vertical-scroll-proportion="0.25203252" />
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1123" column="0" selection-start="46950" selection-end="46950" vertical-scroll-proportion="0.33082706" />
@@ -509,16 +490,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GuessingGame/NumberGuessingGame2.py">
+    <entry file="file://$PROJECT_DIR$/GuessingGame/NumberGuessingGame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="12" column="18" selection-start="340" selection-end="340" vertical-scroll-proportion="0.6238532">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GuessingGame/NumberGuessingGame.py">
+    <entry file="file://$PROJECT_DIR$/GuessingGame/NumberGuessingGame2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="18" selection-start="340" selection-end="340" vertical-scroll-proportion="0.6238532">
+        <state line="12" column="18" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-7.9938836">
           <folding />
         </state>
       </provider>
