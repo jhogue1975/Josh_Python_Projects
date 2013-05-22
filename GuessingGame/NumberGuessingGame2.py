@@ -10,4 +10,4 @@ while randomnumber != userinput:
     if userinput < randomnumber:
         print "The number your chose is too low, try again: "
         count += 1
-    elif:userinput
+        print
