@@ -12,4 +12,4 @@ while randomnumber != userinput:
         count += 1
         userinput = float(raw_input("Nope too low, try again: "))
     else:
-        print "that sucks"
+        print "that sucks doesnt it"
