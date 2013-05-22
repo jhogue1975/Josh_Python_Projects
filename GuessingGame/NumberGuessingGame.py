@@ -10,7 +10,7 @@ print " Hi " + username + ", I am thinking of a number between 1 and 100, can yo
 userinput = int(raw_input("Take a Guess: "))
 while randomnumber != userinput:
     if userinput < randomnumber:
-        count = count + 1
+        count += 1
         userinput = float(raw_input("Nope too low, try again: "))
     else:
         userinput > randomnumber
